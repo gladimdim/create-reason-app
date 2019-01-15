@@ -17,7 +17,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@glennsl/bs-json": "*",
+    "@glennsl/bs-json": "3.0.0",
     "bs-fetch": "0.3.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",

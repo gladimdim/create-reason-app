@@ -20,7 +20,13 @@ npm run start
 ```
 npm run webpack
 ```
-## Server files
+## Serve files
 ```
 npm run deploy
 ```
+
+# What is included
+
+`bs-fetch` is used to work with REST calls.
+`@glennsl/bs-json` is used to parse JSON from REST response into ReasonML real records
+`Js.Promise` is used to work with async REST calls.
