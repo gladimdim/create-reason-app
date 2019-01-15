@@ -1,0 +1,23 @@
+*.bs.js
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules
+
+# Yarn Integrity file
+.yarn-integrity
+
+lib
+
+# BuckleScript related files
+.bsb.lock
+.merlin
+
+# Webpack bundle build files
+build/index.html
+build/Index.js
